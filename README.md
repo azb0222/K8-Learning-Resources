@@ -6,3 +6,7 @@ https://kubevious.io/blog/post/comparing-kubernetes-container-network-interface-
 
 ### Configuring Kubeadm
 https://www.densify.com/kubernetes-tools/kubeadm/
+
+
+### Working with K8 and IAAC
+https://www.densify.com/kubernetes-tools/terraform-eks/
