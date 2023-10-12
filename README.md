@@ -14,3 +14,8 @@ https://www.densify.com/kubernetes-tools/kubeadm/
 
 ### Working with K8 and IAAC
 - Terraform: https://www.densify.com/kubernetes-tools/terraform-eks/
+
+
+### UI Tools: 
+https://github.com/schoolofdevops/kube-ops-view --> original repository is depirictaed 
+TODO: - figure out how to get this running in current kubeadm setup 
