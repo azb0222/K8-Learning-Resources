@@ -9,4 +9,4 @@ https://www.densify.com/kubernetes-tools/kubeadm/
 
 
 ### Working with K8 and IAAC
-https://www.densify.com/kubernetes-tools/terraform-eks/
+- Terraform: https://www.densify.com/kubernetes-tools/terraform-eks/
