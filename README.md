@@ -19,3 +19,7 @@ https://www.densify.com/kubernetes-tools/kubeadm/
 ### UI Tools: 
 https://github.com/schoolofdevops/kube-ops-view --> original repository is depirictaed 
 TODO: - figure out how to get this running in current kubeadm setup 
+
+
+###K8 Components 
+https://kodekloud.com/blog/clusterip-nodeport-loadbalancer/#:~:text=ClusterIP%20is%20used%20for%20Pod,external%20clients%20outside%20the%20cluster.
