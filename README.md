@@ -23,3 +23,5 @@ TODO: - figure out how to get this running in current kubeadm setup
 
 ###K8 Components 
 https://kodekloud.com/blog/clusterip-nodeport-loadbalancer/#:~:text=ClusterIP%20is%20used%20for%20Pod,external%20clients%20outside%20the%20cluster.
+
+https://medium.com/stakater/k8s-deployments-vs-statefulsets-vs-daemonsets-60582f0c62d4
